@@ -40,6 +40,16 @@ can only be 32 characters, and CustomerName can only be 50 characters.
 
 This application requires .Net Framework 4 or better.
 
+## Obtaining and installing
+
+The latest release can be downloaded from the
+[Releases](https://github.com/brightmetrics/STCustomDataImporter/releases)
+section of this repository.  As of this writing, the latest release is
+[STCustomDataImporter-v1.0](https://github.com/brightmetrics/STCustomDataImporter/releases/download/v1.0/STCustomDataImporter-v1.0.zip).
+No installer is provided.  Download the zip file and extract its
+contents to a folder, and run either ImportDataGUI for the GUI
+version, or run ImportData from the command shell for the CLI version.
+
 ## Usage
 
 This application contains two executables, a GUI version and a CLI
