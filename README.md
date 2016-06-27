@@ -40,6 +40,10 @@ can only be 32 characters, and CustomerName can only be 50 characters.
 
 This application requires .Net Framework 4 or better.
 
+The computer from which this application is run must be able to
+connect to the ShoreWare configuration MySQL database running on TCP
+port 4308 on the ShoreTel HQ server.
+
 ## Obtaining and installing
 
 The latest release can be downloaded from the
