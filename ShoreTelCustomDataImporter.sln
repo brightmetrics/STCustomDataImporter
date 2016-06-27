@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoreTelCustomDataImporter", "ShoreTelCustomDataImporter\ShoreTelCustomDataImporter.csproj", "{8F24E982-FED3-49BE-87EB-278DECD506F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportData", "ImportData\ImportData.csproj", "{5F7A1DD3-4062-4A08-99DB-2B1EC84D27DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportDataGUI", "ImportDataGUI\ImportDataGUI.csproj", "{C0700B7F-5B8D-40A4-B89F-7CBF0C4E580B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F24E982-FED3-49BE-87EB-278DECD506F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F24E982-FED3-49BE-87EB-278DECD506F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F24E982-FED3-49BE-87EB-278DECD506F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F24E982-FED3-49BE-87EB-278DECD506F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7A1DD3-4062-4A08-99DB-2B1EC84D27DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7A1DD3-4062-4A08-99DB-2B1EC84D27DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7A1DD3-4062-4A08-99DB-2B1EC84D27DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7A1DD3-4062-4A08-99DB-2B1EC84D27DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0700B7F-5B8D-40A4-B89F-7CBF0C4E580B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0700B7F-5B8D-40A4-B89F-7CBF0C4E580B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0700B7F-5B8D-40A4-B89F-7CBF0C4E580B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0700B7F-5B8D-40A4-B89F-7CBF0C4E580B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
